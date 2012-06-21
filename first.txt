@@ -1,7 +1,6 @@
 First something
 
-second line....
+second
 
 some more text here 
 
-and that's it
